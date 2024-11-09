@@ -4,7 +4,7 @@ A new Flutter project.
 
 ![img](assets/images/img.png)
 ![img1](assets/images/img1.png)
-![img2](assets/images/img2.png)
+![result](assets/images/result.png)
 
 ## Getting Started
 
